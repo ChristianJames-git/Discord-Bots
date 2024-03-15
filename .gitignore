@@ -1,9 +1,6 @@
-# Discord
 discord.*
-
-# Configs
 config.py
-
+*.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
